@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import SessionConfigurator from '../components/session-management/SessionConfigurator';
+import SessionConfigurator from '../components/session-management/SessionConfigurator.tsx';
 
 interface SetupProps {}
 
