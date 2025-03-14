@@ -1,4 +1,5 @@
-import React from 'react';
+"use client"
+import * as React from 'react';
 import { motion } from 'framer-motion';
 import SessionManager from '/src/components/session-management/SessionManager.tsx';
 
