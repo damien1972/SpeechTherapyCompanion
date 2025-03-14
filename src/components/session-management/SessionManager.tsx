@@ -1,7 +1,9 @@
+"use client"
 import React, { useState, useEffect } from 'react';
 import VisualTimer from './VisualTimer';
 import ActivitySequencer from './ActivitySequencer';
 import ProgressTracker from './ProgressTracker';
+// rest of your code
 import { motion } from 'framer-motion';
 
 interface Activity {
