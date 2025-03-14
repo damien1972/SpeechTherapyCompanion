@@ -1,5 +1,7 @@
+"use client"
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
+// rest of your code
 
 interface ActivityConfig {
   id: string;
